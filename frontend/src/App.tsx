@@ -78,7 +78,7 @@ function App() {
   return (
     <div>
       <header className="app-header">
-        <h1>Items hello</h1>
+        <h1>Items hello! </h1>
         <button className="btn-disconnect" onClick={handleDisconnect}>
           Disconnect
         </button>
